@@ -1,11 +1,4 @@
-  <!-- Dark theme only -->
-  <img
-    src="https://r2.fivemanage.com/NFGS8AhEJAk5KA8TseWa1/pressurewash-ezgif.com-video-to-gif-converter.gif#gh-dark-mode-only"
-    alt="A&W Pressure Washing — Middle Tennessee"
-    width="100%"
-    style="max-width:100%;height:auto;"
-  />
-</p>
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset= "./assets/banner-dark.gif"> <img alt="A&W Pressure Washing — Middle Tennessee" src="https://r2.fivemanage.com/NFGS8AhEJAk5KA8TseWa1/pressurewash-ezgif.com-video-to-gif-converter.gif" width="100%" /> </picture> </p>
 
 <h1 align="center">A&W Pressure Washing &amp; Cleaning</h1>
 <p align="center">

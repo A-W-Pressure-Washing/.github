@@ -7,7 +7,7 @@ Keep images under ~2–4MB total to load fast.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.gif">
     <img alt="A&W Pressure Washing — Middle Tennessee" src="./assets/banner-light.png" width="100%" />
   </picture>
 </p>

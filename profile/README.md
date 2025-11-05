@@ -74,7 +74,7 @@ This org hosts code and assets for:
 - Commercial storefronts & lots
 
 <details>
-  <summary><b>Safety & Method</b> (click to expand)</summary>
+  <summary><b>Safety & Method</b></summary>
 
 - **Soft wash** for siding/roofs to avoid damage
 - Pre-rinse landscaping, use plant-safe practices
@@ -139,7 +139,7 @@ Documentation available upon request.
 ## 🤝 Partnerships & Collabs
 
 We partner with realtors, property managers, HOAs, and contractors for scheduled maintenance, turn-ready cleanings, and seasonal refreshes.  
-**Contact:** awpressurewashing@example.com
+**Contact:** estimate.awpressurewashing@gmail.com
 
 ---
 

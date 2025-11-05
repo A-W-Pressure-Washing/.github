@@ -6,14 +6,18 @@ Keep images under ~2–4MB total to load fast.
 
 <p align="center">
   <picture>
+    <!-- Dark mode version -->
     <source media="(prefers-color-scheme: dark)" srcset="https://r2.fivemanage.com/NFGS8AhEJAk5KA8TseWa1/pressurewash-ezgif.com-video-to-gif-converter.gif">
+    
+    <!-- Light mode fallback -->
     <img
       alt="A&W Pressure Washing — Middle Tennessee"
-      src="./assets/banner-light.png"
+      src="https://r2.fivemanage.com/NFGS8AhEJAk5KA8TseWa1/pressurewash-ezgif.com-video-to-gif-converter.gif"
       width="100%"
     />
   </picture>
 </p>
+
 
 
 

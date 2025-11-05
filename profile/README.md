@@ -148,7 +148,7 @@ We maintain lightweight, maintainable codebases:
 ## 🔗 Social & Links
 
 - Website: [awpressurewashing.com](https://awpressurewashing.pages.dev)
-- Facebook: [facebook.com/awpressurewashing](https://facebook.com/awpressurewashing  
+- Facebook: [facebook.com/awpressurewashing](https://facebook.com/awpressurewashing)  
 - Instagram: [instagram.com/awpressurewashing](https://instagram.com/awpressurewashing)
 - X (Twitter): [x.com/awpressurewash](https://x.com/awpressurewash)
 - Discord: [discord.gg/A&WPressureWashing](https://discord.gg/zqJt8cQ3um)

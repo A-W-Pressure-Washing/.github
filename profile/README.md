@@ -6,19 +6,16 @@ Keep images under ~2–4MB total to load fast.
 
 <p align="center">
   <picture>
-    <!-- Prefer dark GIF when user prefers dark mode -->
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.gif" />
-    <!-- Prefer light PNG when user prefers light mode -->
     <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.png" />
-    <!-- Fallback for anything else (and if sources fail): light PNG -->
     <img
       alt="A&W Pressure Washing — Middle Tennessee"
-      src="./assets/banner-light.png"
+      src="./assets/banner-dark.gif"
       width="100%"
       style="max-width:100%;height:auto;"
     />
   </picture>
 </p>
+
 
 
 

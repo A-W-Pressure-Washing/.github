@@ -1,11 +1,3 @@
-<p align="center">
-  <!-- Light theme only -->
-  <img
-    src="./assets/banner-light.png#gh-light-mode-only"
-    alt="A&W Pressure Washing — Middle Tennessee"
-    width="100%"
-    style="max-width:100%;height:auto;"
-  />
   <!-- Dark theme only -->
   <img
     src="https://r2.fivemanage.com/NFGS8AhEJAk5KA8TseWa1/pressurewash-ezgif.com-video-to-gif-converter.gif#gh-dark-mode-only"

@@ -87,7 +87,6 @@ This org hosts code and assets for:
 ## 🗺️ Service Area
 <p>
   <img alt="Service Area Map — Warren, DeKalb, Van Buren & surrounding Middle Tennessee counties" src="https://github.com/user-attachments/assets/ac0fcb88-3b2d-4886-b67d-3be401e69a49" />
-" src="" />
 </p>
 
 - **Primary counties:** Warren, DeKalb, Van Buren  

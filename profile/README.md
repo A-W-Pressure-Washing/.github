@@ -99,7 +99,7 @@ This org hosts code and assets for:
 
 <table>
   <tr>
-    <td><img src="https://t4.ftcdn.net/jpg/10/34/20/03/360_F_1034200308_HNpgCxL72iaEIgKtAobOKXUyY8F3QlS7.jpg" alt="Before/After 1" width="100%"></td>
+    <td><img src="https://irp.cdn-website.com/b66c390c/dms3rep/multi/Twisted-Nozzle-Pressure-Washing-Contact-Us-3.jpg" alt="Before/After 1" width="100%"></td>
     <td><img src="https://img1.wsimg.com/isteam/ip/c968a4d6-9c01-401f-b433-e86b15d62b8b/Pressure%20Washing%20in%20Sarasota%20(1).jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1280" alt="Before/After 2" width="100%"></td>
   </tr>
 </table>

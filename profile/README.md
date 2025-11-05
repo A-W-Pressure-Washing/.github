@@ -1,4 +1,3 @@
-![Uploading banner-dark.gif…]()
 <!--
 A&W Pressure Washing — Organization Profile
 Tip: GitHub org profiles render markdown; HTML is allowed (no scripts).

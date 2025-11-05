@@ -6,19 +6,20 @@ Keep images under ~2–4MB total to load fast.
 
 <p align="center">
   <picture>
-    <!-- Show PNG only when user prefers LIGHT -->
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="./assets/banner-light.png"
-    />
-    <!-- Default/fallback: the animated GIF (works for dark and when the source isn't used) -->
+    <!-- Prefer dark GIF when user prefers dark mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.gif" />
+    <!-- Prefer light PNG when user prefers light mode -->
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.png" />
+    <!-- Fallback for anything else (and if sources fail): light PNG -->
     <img
       alt="A&W Pressure Washing — Middle Tennessee"
-      src="https://r2.fivemanage.com/NFGS8AhEJAk5KA8TseWa1/pressurewash-ezgif.com-video-to-gif-converter.gif"
+      src="./assets/banner-light.png"
       width="100%"
+      style="max-width:100%;height:auto;"
     />
   </picture>
 </p>
+
 
 
 

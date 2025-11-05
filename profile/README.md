@@ -7,7 +7,7 @@ Keep images under ~2–4MB total to load fast.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.gif">
-    <img alt="A&W Pressure Washing — Middle Tennessee" src="./assets/banner-light.png" width="100%" />
+    <img alt="A&W Pressure Washing — Middle Tennessee" src="https://r2.fivemanage.com/NFGS8AhEJAk5KA8TseWa1/pressurewash-ezgif.com-video-to-gif-converter.gif" width="100%" />
   </picture>
 </p>
 
@@ -23,13 +23,17 @@ Keep images under ~2–4MB total to load fast.
 </p>
 
 <p align="center">
-  <a href="https://awpressurewashing.pages.dev/estimate" target="_blank">
+  <a href="https://awpressurewashing.pages.dev/estimate" target="_blank" rel="noopener noreferrer">
     <img alt="Get a Free Estimate" src="./assets/cta-estimate.svg" height="40">
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:estimate.awpressurewashing@gmail.com">estimate.awpressurewashing@gmail.com</a> •
+</p>
+
+<p align="center">
+  <a href="mailto:estimate.awpressurewashing@gmail.com">estimate.awpressurewashing@gmail.com</a>
+  &nbsp;•&nbsp;
   <a href="tel:+1-931-259-7963">(931) 259-7963</a>
 </p>
+
 
 ---
 

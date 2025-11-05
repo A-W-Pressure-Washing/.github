@@ -27,8 +27,8 @@ Keep images under ~2–4MB total to load fast.
     <img alt="Get a Free Estimate" src="./assets/cta-estimate.svg" height="40">
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:awpressurewashing@example.com">awpressurewashing@example.com</a> •
-  <a href="tel:+1-931-555-0123">(931) 555-0123</a>
+  <a href="mailto:estimate.awpressurewashing@gmail.com">estimate.awpressurewashing@gmail.com</a> •
+  <a href="tel:+1-931-259-7963">(931) 259-7963</a>
 </p>
 
 ---
@@ -116,8 +116,8 @@ We showcase verified reviews on our site and social pages.
 ## 🗓️ Booking & Estimates
 
 - **Instant Estimate:** <a href="https://awpressurewashing.pages.dev/estimate" target="_blank">Request online</a>  
-- **Phone/Text:** <a href="tel:+1-931-555-0123">(931) 555-0123</a>  
-- **Email:** <a href="mailto:awpressurewashing@example.com">awpressurewashing@example.com</a>
+- **Phone/Text:** <a href="tel:+1-931-259-7963">(931) 259-7963</a>  
+- **Email:** <a href="mailto:estimate.awpressurewashing@gmail.com">estimate.awpressurewashing@gmail.com</a>
 
 You’ll receive confirmation plus optional reminder notifications.
 
@@ -159,7 +159,7 @@ We maintain lightweight, maintainable codebases:
 - Facebook: https://facebook.com/awpressurewashing  
 - Instagram: https://instagram.com/awpressurewashing  
 - X (Twitter): https://x.com/awpressurewash  
-- Discord: https://discord.gg/YOUR-INVITE
+- Discord: [https://discord.gg/A&WPressureWashing](https://discord.gg/zqJt8cQ3um)
 
 ---
 

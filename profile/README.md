@@ -1,8 +1,23 @@
-<!--
-A&W Pressure Washing — Organization Profile
-Tip: GitHub org profiles render markdown; HTML is allowed (no scripts).
-Keep images under ~2–4MB total to load fast.
--->
+<p align="center">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://r2.fivemanage.com/NFGS8AhEJAk5KA8TseWa1/pressurewash-ezgif.com-video-to-gif-converter.gif"
+    />
+
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="./assets/banner-light.png"
+    />
+
+    <img
+      alt="A&W Pressure Washing — Middle Tennessee"
+      src="./assets/banner-light.png"
+      width="100%"
+      style="max-width:100%;height:auto;"
+    />
+  </picture>
+</p>
 
 
 <h1 align="center">A&W Pressure Washing &amp; Cleaning</h1>

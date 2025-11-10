@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:estimate.awpressurewashing@gmail.com">estimate.awpressurewashing@gmail.com</a>
+  <a href="mailto:estimate.awpressurewashing@gmail.com">quote@awpressurewash.com</a>
   &nbsp;•&nbsp;
   <a href="tel:+1-931-259-7963">(931) 259-7963</a>
 </p>
@@ -128,7 +128,7 @@ Documentation available upon request.
 ## 🤝 Partnerships & Collabs
 
 We partner with realtors, property managers, HOAs, and contractors for scheduled maintenance, turn-ready cleanings, and seasonal refreshes.  
-**Contact:** estimate.awpressurewashing@gmail.com
+**Contact:** info@awpressurewash.com
 
 ---
 
@@ -147,9 +147,9 @@ We maintain lightweight, maintainable codebases:
 
 ## 🔗 Social & Links
 
-- Website: [awpressurewashing.com](https://awpressurewashing.pages.dev)
-- Facebook: [facebook.com/awpressurewashing](https://facebook.com/awpressurewashing)  
-- Instagram: [instagram.com/awpressurewashing](https://instagram.com/awpressurewashing)
+- Website: [AWPressureash.com](https://awpressurewash)
+- Facebook: [Facebook.awpressurewash.com](https://facebook.awpressurewash.com)  
+- Instagram: [Insta.awpressurewash](https://insta.awpressurewash.com)
 - X (Twitter): [x.com/awpressurewash](https://x.com/awpressurewash)
 - Discord: [discord.gg/A&WPressureWashing](https://discord.gg/zqJt8cQ3um)
 

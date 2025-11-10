@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://awpressurewashing.pages.dev/estimate" target="_blank" rel="noopener noreferrer">
+  <a href="https://awpressurewash.com/estimate" target="_blank" rel="noopener noreferrer">
     <img alt="Get a Free Estimate" src="./assets/cta-estimate.svg" height="40">
   </a>
 </p>

@@ -132,16 +132,14 @@ We partner with realtors, property managers, HOAs, and contractors for scheduled
 
 ---
 
-## 🧠 Tech Behind the Business (Open Source)
+## 🧠 Tech Behind the Business
 
 We maintain lightweight, maintainable codebases:
 
 - Static site (Pages) with modern meta tags and local SEO
 - Booking forms → email/webhook alerts
-- Quote calculator templates & invoice templates (Google Sheets)
+- Quote calculator templates & invoice templates
 - GitHub Actions for linting/formatting and asset checks
-
-> Interested in contributing? See CONTRIBUTING.md in each repo.
 
 ---
 
@@ -149,8 +147,10 @@ We maintain lightweight, maintainable codebases:
 
 - Website: [AWPressureWash.com](https://awpressurewash.com)
 - Facebook: [Facebook.awpressurewash.com](https://facebook.awpressurewash.com)  
-- Instagram: [Insta.awpressurewash](https://insta.awpressurewash.com)
-- X (Twitter): [x.com/awpressurewash](https://x.com/awpressurewash)
+- Instagram: [Insta.awpressurewash.com](https://insta.awpressurewash.com)
+- X (Twitter): [X.com/awpressurewash](https://x.com/awpressurewash)
+- TikTok: [TikTok.awpressurewash.com](https://tiktok.awpressurewash.com)
+- Yelp: [Yelp.awpressurewash.com](https://yelp.awpressurewash.com) 
 - Discord: [discord.gg/A&WPressureWashing](https://discord.gg/zqJt8cQ3um)
 
 ---

@@ -128,7 +128,7 @@ Documentation available upon request.
 ## 🤝 Partnerships & Collabs
 
 We partner with realtors, property managers, HOAs, and contractors for scheduled maintenance, turn-ready cleanings, and seasonal refreshes.  
-**Contact:** info@awpressurewash.com
+**Contact:** estimate.awpressurewashing@gmail.com
 
 ---
 

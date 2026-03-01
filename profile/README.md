@@ -151,8 +151,7 @@ We maintain lightweight, maintainable codebases:
 - X (Twitter): [X.com/awpressurewash](https://x.com/awpressurewash)
 - TikTok: [TikTok.awpressurewash.com](https://tiktok.awpressurewash.com)
 - Yelp: [Yelp.awpressurewash.com](https://yelp.awpressurewash.com) 
-- Discord: [discord.gg/AWPressureWashing](https://discord.gg/zqJt8cQ3um)
-
+D
 ---
 
 <p align="center">

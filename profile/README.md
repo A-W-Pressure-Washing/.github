@@ -20,7 +20,7 @@
 <p align="center">
   <a href="mailto:estimate.awpressurewashing@gmail.com">estimate@awpressurewash.com</a>
   &nbsp;•&nbsp;
-  <a href="tel:+1-931-259-7963">(931) 259-7963</a>
+  <a href="tel:+19312597963">(931) 259-7963</a>
 </p>
 
 
@@ -108,7 +108,7 @@ We showcase verified reviews on our site and social pages.
 ## 🗓️ Booking & Estimates
 
 - **Instant Estimate:** <a href="https://estimate.awpressurewash.com" target="_blank">Request online</a>  
-- **Phone/Text:** <a href="tel:+1-931-259-7963">(931) 259-7963</a>  
+- **Phone/Text:** <a href="tel:+19312597963">(931) 259-7963</a>  
 - **Email:** <a href="mailto:estimate.awpressurewashing@gmail.com">estimate@awpressurewash.com</a>
 
 You’ll receive confirmation plus optional reminder notifications.

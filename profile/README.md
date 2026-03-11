@@ -151,8 +151,9 @@ We maintain lightweight, maintainable codebases:
 - X (Twitter): [X.com/awpressurewash](https://x.com/awpressurewash)
 - TikTok: [TikTok.awpressurewash.com](https://tiktok.awpressurewash.com)
 - Yelp: [Yelp.awpressurewash.com](https://yelp.awpressurewash.com)
-- Reddit: [Reddit.awpressurewash.com](https://reddit.awpressurewash.com) 
-D
+- Reddit: [Reddit.awpressurewash.com](https://reddit.awpressurewash.com)
+- Discord: [Discord.awpressurewash.com](https://discord.awpressurewash.com)
+- WhatsApp: [whatsapp.awpressurewash.com](https://whatsapp.awpressurewash.com)
 ---
 
 <p align="center">

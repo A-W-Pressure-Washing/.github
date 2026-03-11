@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:estimate.awpressurewashing@gmail.com">estimate@awpressurewash.com</a>
+  <a href="mailto:info@awpressurewash.com">info@awpressurewash.com</a>
   &nbsp;•&nbsp;
   <a href="tel:+19312597963">(931) 259-7963</a>
 </p>
@@ -109,7 +109,7 @@ We showcase verified reviews on our site and social pages.
 
 - **Instant Estimate:** <a href="https://estimate.awpressurewash.com" target="_blank">Request online</a>  
 - **Phone/Text:** <a href="tel:+19312597963">(931) 259-7963</a>  
-- **Email:** <a href="mailto:estimate.awpressurewashing@gmail.com">estimate@awpressurewash.com</a>
+- **Email:** <a href="mailto:info@awpressurewash.com">info@awpressurewash.com</a>
 
 You’ll receive confirmation plus optional reminder notifications.
 
@@ -128,7 +128,7 @@ Documentation available upon request.
 ## 🤝 Partnerships & Collabs
 
 We partner with realtors, property managers, HOAs, and contractors for scheduled maintenance, turn-ready cleanings, and seasonal refreshes.  
-**Contact:** estimate.awpressurewashing@gmail.com
+**Contact:** info@awpressurewash.com
 
 ---
 
@@ -150,7 +150,8 @@ We maintain lightweight, maintainable codebases:
 - Instagram: [Insta.awpressurewash.com](https://insta.awpressurewash.com)
 - X (Twitter): [X.com/awpressurewash](https://x.com/awpressurewash)
 - TikTok: [TikTok.awpressurewash.com](https://tiktok.awpressurewash.com)
-- Yelp: [Yelp.awpressurewash.com](https://yelp.awpressurewash.com) 
+- Yelp: [Yelp.awpressurewash.com](https://yelp.awpressurewash.com)
+- Reddit: [Reddit.awpressurewash.com](https://reddit.awpressurewash.com) 
 D
 ---
 

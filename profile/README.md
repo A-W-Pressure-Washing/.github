@@ -157,6 +157,6 @@ We maintain lightweight, maintainable codebases:
 ---
 
 <p align="center">
-  <sub>© A&amp;W Pressure Washing &amp; Cleaning — Middle Tennessee</sub><br/>
+  <sub>©2026 A&amp;W Pressure Washing &amp; Cleaning — Middle Tennessee</sub><br/>
   <sub><a href="https://github.com/A-W-Pressure-Washing/Documentation/blob/main/Policies/PrivacyStatement.md">Privacy</a> • <a href="https://github.com/A-W-Pressure-Washing/Documentation/blob/main/Policies/TermsandConditions.md">Terms</a></sub>
 </p>

@@ -147,7 +147,7 @@ We maintain lightweight, maintainable codebases:
 
 ---
 
-## 🔗 Social & Links
+## 🔗 Social & Other Links
 
 - Website: [AWPressureWash.com](https://awpressurewash.com)
 - Facebook: [Facebook.awpressurewash.com](https://facebook.awpressurewash.com)  
@@ -157,8 +157,10 @@ We maintain lightweight, maintainable codebases:
 - Yelp: [Yelp.awpressurewash.com](https://yelp.awpressurewash.com)
 - Reddit: [Reddit.awpressurewash.com](https://reddit.awpressurewash.com)
 - Discord: [Discord.awpressurewash.com](https://discord.awpressurewash.com)
-- WhatsApp: [whatsapp.awpressurewash.com](https://whatsapp.awpressurewash.com)
 - YouTube: [youtube.awpressurewash.com](https://youtube.awpressurewash.com)
+
+**🧰 Tools**
+- JobCal PRO: [Pressure Washing Chemical Calculator](https://tools.awpressurewash.com)
 ---
 
 <p align="center">
